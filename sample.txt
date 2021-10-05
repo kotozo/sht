@@ -1,5 +1,10 @@
 This is the team activity test file
 This is to test how to pull 
 this is another change to the file
+<<<<<<< HEAD
 This is a new change line n4
 This one is the last change n5
+=======
+This is for the stretch challenge
+Fifth change to my sample file
+>>>>>>> 4dcd6b40290bbd8b1ccfe172bf9d1867669652e5
